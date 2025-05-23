@@ -63,13 +63,6 @@ Thumbs.db
 # Jupyter Notebook metadata (optional)
 *.nbconvert.ipynb
 
-# Ignore generated plots or image outputs
-*.png
-*.jpg
-*.jpeg
-*.svg
-*.pdf
-
 # Ignore analysis and model files
 *.pkl
 *.joblib
